@@ -4,7 +4,7 @@
 React, Redux, Node+Express, MongoDB
 
 ## See Live
-https://braquet.io
+https://www.braquet.io
 
 ## Description
 Solar companies today lack a good way of sifting through thousands of high-quality solar suppliers and products. Companies rely on either Google searches or costly trade shows to find solar suppliers. Search engines fail because suppliers do not rank high in search results. Trade shows are cost-prohibitive for small companies and inefficiently filter for quality suppliers. As a result, most companies do business with a handful of suppliers and significantly overpay on solar projects.
