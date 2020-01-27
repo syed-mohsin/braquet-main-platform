@@ -57,7 +57,7 @@
     "bootstrap": "4.0.0-alpha.6",
     "classnames": "^2.2.5",
     "compression": "^1.6.2",
-    "cookie-session": "^2.0.0-beta.2",
+    "cookie-session": "^2.0.0-rc.1",
     "express": "^4.15.3",
     "google-spreadsheet": "^2.0.4",
     "immutable": "4.0.0-rc.2",
