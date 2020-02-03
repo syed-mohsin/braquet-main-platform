@@ -47,7 +47,7 @@
     "redux-mock-store": "^1.2.3",
     "rimraf": "^2.6.1",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5"
+    "webpack-dev-server": "^3.1.11"
   },
   "browserslist": [
     "> 1%"
