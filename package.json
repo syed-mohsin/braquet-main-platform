@@ -46,7 +46,7 @@
     "nodemon": "^1.11.0",
     "redux-mock-store": "^1.2.3",
     "rimraf": "^2.6.1",
-    "webpack": "^2.6.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^2.4.5"
   },
   "browserslist": [
