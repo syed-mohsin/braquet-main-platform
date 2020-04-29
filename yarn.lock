@@ -4618,13 +4618,12 @@ react-overlays@^0.7.0:
     react-prop-types "^0.4.0"
     warning "^3.0.0"
 
-react-paginate@^4.4.3:
-  version "4.4.3"
-  resolved "https://registry.yarnpkg.com/react-paginate/-/react-paginate-4.4.3.tgz#11817ece628fa59c54a2df7968c854ed64b99077"
+react-paginate@^4.4.4:
+  version "4.4.4"
+  resolved "https://registry.yarnpkg.com/react-paginate/-/react-paginate-4.4.4.tgz#0126110e8b8438b08a2c97b59e8391d72ae0b0f3"
   dependencies:
     classnames "^2.2.5"
     prop-types "^15.5.7"
-    react "^15.0.0"
     react-addons-create-fragment "^15.0.0"
 
 react-prop-types@^0.4.0:
@@ -4683,7 +4682,7 @@ react-side-effect@^1.1.0:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
 
-react@^15.0.0, react@^15.5.4:
+react@^15.5.4:
   version "15.5.4"
   resolved "https://registry.yarnpkg.com/react/-/react-15.5.4.tgz#fa83eb01506ab237cdc1c8c3b1cea8de012bf047"
   dependencies:
