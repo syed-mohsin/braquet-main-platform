@@ -66,7 +66,7 @@
     "mongoose": "^4.10.7",
     "mongoose-currency": "^0.2.0",
     "query-string": "^4.3.4",
-    "react": "^15.5.4",
+    "react": "^15.7.0",
     "react-bootstrap-typeahead": "^1.4.1",
     "react-content-loader": "^1.4.0",
     "react-dom": "^15.5.4",
